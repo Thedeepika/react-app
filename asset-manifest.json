@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Thedeepika/react-app/static/css/main.9fe40f7c.css",
-    "main.js": "/Thedeepika/react-app/static/js/main.e8dcf3cf.js",
-    "static/js/453.ac79db8d.chunk.js": "/Thedeepika/react-app/static/js/453.ac79db8d.chunk.js",
-    "index.html": "/Thedeepika/react-app/index.html",
-    "main.9fe40f7c.css.map": "/Thedeepika/react-app/static/css/main.9fe40f7c.css.map",
-    "main.e8dcf3cf.js.map": "/Thedeepika/react-app/static/js/main.e8dcf3cf.js.map",
-    "453.ac79db8d.chunk.js.map": "/Thedeepika/react-app/static/js/453.ac79db8d.chunk.js.map"
+    "main.css": "/react-app/static/css/main.9fe40f7c.css",
+    "main.js": "/react-app/static/js/main.8dcddf6a.js",
+    "static/js/453.ac79db8d.chunk.js": "/react-app/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/react-app/index.html",
+    "main.9fe40f7c.css.map": "/react-app/static/css/main.9fe40f7c.css.map",
+    "main.8dcddf6a.js.map": "/react-app/static/js/main.8dcddf6a.js.map",
+    "453.ac79db8d.chunk.js.map": "/react-app/static/js/453.ac79db8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fe40f7c.css",
-    "static/js/main.e8dcf3cf.js"
+    "static/js/main.8dcddf6a.js"
   ]
 }
